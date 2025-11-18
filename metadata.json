@@ -1,0 +1,5 @@
+{
+  "name": "Forex Trading UI",
+  "description": "A responsive and interactive replica of a forex trading application's main dashboard, built with React and Tailwind CSS. It features a real-time data display for currency pairs with dynamic price updates.",
+  "requestFramePermissions": []
+}
